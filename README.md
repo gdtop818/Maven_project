@@ -8,7 +8,7 @@ If you want to watch the whole tutorial, you can go to [gdtop818 csdn](https://b
 
 Better use the newest version of IntelliJ IDEA, JDK 1.8_x, and Tomcat 8.x.
 
-If you've got any problems caused by this upgration, better look up the documents in (Spring Framework Reference)[http://docs.spring.io/spring/docs/4.3.0.BUILD-SNAPSHOT/spring-framework-reference/htmlsingle/].
+If you've got any problems caused by this upgration, better look up the documents in [Spring Framework Reference](http://docs.spring.io/spring/docs/4.3.0.BUILD-SNAPSHOT/spring-framework-reference/htmlsingle/).
 
 If you have any questions or opinions, you can create issues here. Thanks :)
 
@@ -28,7 +28,7 @@ Welcome to visit my personal blog: [gdtop818](https://blog.csdn.net/weixin_37993
 
 最好使用最新版本的 IntelliJ IDEA, JDK 1.8.x，还有Tomcat8.x。
 
-任何由升级带来的问题，请查阅(Spring Framework Reference)[http://docs.spring.io/spring/docs/4.3.0.BUILD-SNAPSHOT/spring-framework-reference/htmlsingle/]。
+任何由升级带来的问题，请查阅[Spring Framework Reference](http://docs.spring.io/spring/docs/4.3.0.BUILD-SNAPSHOT/spring-framework-reference/htmlsingle/)。
 
 如果你有什么问题，或者宝贵的意见，可以在Issues中提出，我会及时回应。谢谢关注 :)
 
