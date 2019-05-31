@@ -1,4 +1,4 @@
-package com.gaussic.model;
+package com.gdtop.model;
 
 import javax.persistence.*;
 import java.util.Collection;

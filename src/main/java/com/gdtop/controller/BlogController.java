@@ -1,9 +1,9 @@
-package com.gaussic.controller;
+﻿package com.gdtop.controller;
 
-import com.gaussic.model.BlogEntity;
-import com.gaussic.model.UserEntity;
-import com.gaussic.repository.BlogRepository;
-import com.gaussic.repository.UserRepository;
+import com.gdtop.model.BlogEntity;
+import com.gdtop.model.UserEntity;
+import com.gdtop.repository.BlogRepository;
+import com.gdtop.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;

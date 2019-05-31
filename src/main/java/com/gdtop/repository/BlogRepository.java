@@ -1,4 +1,4 @@
-package com.gaussic.repository;
+﻿package com.gdtop.repository;
 
 import com.gaussic.model.BlogEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
