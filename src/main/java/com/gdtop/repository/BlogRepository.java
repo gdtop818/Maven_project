@@ -1,6 +1,6 @@
-﻿package com.gdtop.repository;
+package com.gdtop.repository;
 
-import com.gaussic.model.BlogEntity;
+import com.gdtop.model.BlogEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Modifying;
 import org.springframework.data.jpa.repository.Query;

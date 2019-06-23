@@ -12,7 +12,7 @@
        http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx.xsd">
 
     <!--指明 controller 所在包，并扫描其中的注解-->
-    <context:component-scan base-package="com.gaussic.controller"/>
+    <context:component-scan base-package="com.gdtop.controller"/>
 
     <!-- 静态资源(js、image等)的访问 -->
     <mvc:default-servlet-handler/>
@@ -29,11 +29,11 @@
     </bean>
 
     <!-- 表示JPA Repository所在的包 -->
-    <jpa:repositories base-package="com.gaussic.repository"/>
+    <jpa:repositories base-package="com.gdtop.repository"/>
 
     <bean id="entityManagerFactory" class="org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean">
         <property name="persistenceUnitName" value="defaultPersistenceUnit"/>
-        <property name="packagesToScan" value="com.gaussic.model" />
+        <property name="packagesToScan" value="com.gdtop.model" />
         <property name="jpaVendorAdapter">
             <bean class="org.springframework.orm.jpa.vendor.HibernateJpaVendorAdapter"/>
         </property>

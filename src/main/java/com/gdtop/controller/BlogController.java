@@ -1,4 +1,4 @@
-﻿package com.gdtop.controller;
+package com.gdtop.controller;
 
 import com.gdtop.model.BlogEntity;
 import com.gdtop.model.UserEntity;
